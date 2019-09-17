@@ -1,0 +1,60 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "First",
+      "content": "content1",
+      "createdAt": "22.02.2019",
+      "done": true,
+      "isArchive": false
+    },
+    {
+      "title": "forthss",
+      "content": "contd",
+      "createdAt": "13.02.2019",
+      "done": true,
+      "isArchive": true,
+      "id": 5
+    },
+    {
+      "title": "forg",
+      "content": "sad",
+      "createdAt": "13.02.2019",
+      "done": false,
+      "isArchive": false,
+      "id": 7
+    },
+    {
+      "title": "asdwad",
+      "content": "for",
+      "createdAt": "13.02.2019",
+      "done": true,
+      "isArchive": false,
+      "id": 8
+    },
+    {
+      "title": "hello",
+      "content": "world",
+      "createdAt": "13.02.2019",
+      "done": false,
+      "isArchive": false,
+      "id": 9
+    },
+    {
+      "title": "Hello2",
+      "content": "content",
+      "createdAt": "13.02.2019",
+      "done": true,
+      "isArchive": false,
+      "id": 10
+    },
+    {
+      "title": "hello",
+      "content": "sad",
+      "createdAt": "13.02.2019",
+      "done": false,
+      "isArchive": false,
+      "id": 15
+    }
+  ]
+}
